@@ -1,6 +1,8 @@
 # SFA for Navigation
 
-This code accompanies our paper _Explainable Neuro-Inspired Representations Improve RL Performance on Visual Navigation Tasks_ (more details to follow after publication).
+![Example of a hSFA transformer](images/hsfa.png)
+
+This code accompanies the paper _Explainable Neuro-Inspired Representations Improve RL Performance on Visual Navigation Tasks_ (more details to follow after publication).
 
 You can create the required Python environment from `environment.yml`. You additionally need to install [this](https://anonymous.4open.science/r/Miniworld-D3D5/README.md) Miniworld fork locally.
 
